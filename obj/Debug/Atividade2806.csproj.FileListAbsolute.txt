@@ -1,0 +1,11 @@
+C:\Users\anna.laralves\Documents\UC12\Atividade2806\Atividade2806\bin\Debug\Atividade2806.exe.config
+C:\Users\anna.laralves\Documents\UC12\Atividade2806\Atividade2806\bin\Debug\Atividade2806.exe
+C:\Users\anna.laralves\Documents\UC12\Atividade2806\Atividade2806\bin\Debug\Atividade2806.pdb
+C:\Users\anna.laralves\Documents\UC12\Atividade2806\Atividade2806\obj\Debug\Atividade2806.csproj.AssemblyReference.cache
+C:\Users\anna.laralves\Documents\UC12\Atividade2806\Atividade2806\obj\Debug\Atividade2806.csproj.SuggestedBindingRedirects.cache
+C:\Users\anna.laralves\Documents\UC12\Atividade2806\Atividade2806\obj\Debug\Atividade2806.Form1.resources
+C:\Users\anna.laralves\Documents\UC12\Atividade2806\Atividade2806\obj\Debug\Atividade2806.Properties.Resources.resources
+C:\Users\anna.laralves\Documents\UC12\Atividade2806\Atividade2806\obj\Debug\Atividade2806.csproj.GenerateResource.cache
+C:\Users\anna.laralves\Documents\UC12\Atividade2806\Atividade2806\obj\Debug\Atividade2806.csproj.CoreCompileInputs.cache
+C:\Users\anna.laralves\Documents\UC12\Atividade2806\Atividade2806\obj\Debug\Atividade2806.exe
+C:\Users\anna.laralves\Documents\UC12\Atividade2806\Atividade2806\obj\Debug\Atividade2806.pdb
